@@ -1,0 +1,1 @@
+# scn-email-template
